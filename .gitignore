@@ -1,0 +1,36 @@
+# Базы данных и дампы
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.db-shm
+*.db-wal
+*.bak
+*.trn
+*.dmp
+*.dump
+*.backup
+*dump*.sql
+*backup*.sql
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Настройки IDE и секреты
+.idea/
+.vscode/
+.dbeaver/
+.env
+.env.*
+*secret*
+*credentials*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
